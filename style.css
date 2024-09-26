@@ -1,0 +1,292 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: rgb(32, 33, 36);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";;
+    background-color: rgb(255, 255, 255);
+}
+
+
+.top-nav{
+    /* padding-top: 5px; */
+    height: 50px;
+}
+.nav-img{
+    height: 18px;
+    width: 13px;
+    margin-right: 10px;
+    margin-top: -5px;
+    
+}
+.nav-per{
+   
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    padding-top: 12px;
+}
+.btn-location{
+    height: 32px;
+    width: 99px;
+    font-size: 12px;
+    border-radius: 10rem;
+    font: 400;
+    margin-left: 22px;
+}
+hr{
+    margin: 0px;
+}
+.kfc-navbar{
+    color: black;
+}
+.nav-item{
+    font-size: 14 px;
+    font-weight: 600;
+    letter-spacing: 0 px;
+    margin-right: 30px;
+
+
+}
+.kfc-img{
+    margin: 30px 40px 30px 120px;
+}
+.nav-cnt-right{
+    margin-right: 100px;
+}
+.cart{
+    padding: 0px 15px
+}
+.home-top{
+    padding: 1%;
+    background-color: rgb(33, 37, 41);
+    margin-top: 150.8px;
+}
+.home-top h3{
+    font-size: 18px;
+    font-weight: 700;
+    background-color: rgb(33, 37, 41);
+    color: aliceblue;
+    letter-spacing: -1px;
+    padding-top: 10px;
+}
+.home-top button{
+    margin-left: 20px;
+    background-color :rgb(228, 0, 43);
+    padding: 10px 40px;
+    font-size: 14px;
+    color: aliceblue;
+    border-radius: 1.4rem;
+    
+}
+.sign{
+    border-right: 1px solid rgb(208, 208, 208);
+    padding-right:  20px;
+
+}
+.browse-cat{
+    margin: 0 80px 0 270px ;
+}
+
+    
+h1,h2,h3,h4,h5,h6{
+
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+.browse-head{
+    margin-top: 100px;
+    margin-bottom: 55px;
+}
+.browse-head h1{
+   
+    font-size: 38px;
+}
+.line{
+    margin-left: auto;
+    width: 70%;
+
+}
+.cat-card .card{
+    margin-bottom: 25px;
+}
+#offers{
+    background: rgb(50, 50, 50);
+    /* height: 500px; */
+    
+
+}
+.offers-back{
+    background-color: rgb(50, 50, 50);
+    
+}
+#offers h1{
+    color: aliceblue;
+    background-color: rgb(50, 50, 50);
+    margin-left: 200px;
+    padding-top: 50px;
+    font-size: 30px;
+    font-weight: 800;
+}
+.card-cerosel {
+    background-color: rgb(50, 50, 50);
+    /* margin-left: 300px; */
+    padding: 50px  0px;
+}
+.card-cerosel .card{
+    height: 398px;
+    width: 310px;
+}
+.card-cerosel .card h2{
+    color: #e4002b;
+    font-weight: 700;
+    font-size: 38px;
+
+
+}
+.cerosel-card-link{
+    color: rgb(133, 133, 133);
+}
+.cerosel-card-btn{
+    border: 1px solid rgb(50, 50, 50);
+    border-radius: 20px;
+    padding: 10px 30px;
+    text-decoration: none;
+    color: rgb(36, 36, 36);
+    font-weight: 500;
+    margin-left: 10%;
+}
+.card-cerosel p{
+    line-height: 1rem;
+}
+.carousel-inner{
+    background-color: rgb(50, 50, 50);;
+}
+.carousel-item {
+    background-color: rgb(50, 50, 50);
+}
+.carousel-indicators{
+    background-color: transparent;
+    margin-bottom: -30px;
+}
+.carousel-item {
+    margin-left: 200px;
+    
+}
+footer{
+    background-color: rgb(50, 50, 50);
+}
+.footer{
+    background-color: rgb(50, 50, 50);
+}
+.footer-cols{
+    background-color: rgb(50, 50, 50);
+    width: 80%;
+    /* margin-left: auto;
+    margin-right: auto; */
+    margin: 300px auto 100px  auto;
+
+}
+.footer-cols .col{
+    background-color: rgb(50, 50, 50);
+}
+.footer-cols .col li{
+    background-color: rgb(50, 50, 50);
+    list-style-type: none;
+    color: aliceblue;
+    font-weight: 500;
+}
+.footer a{
+    background-color: rgb(50, 50, 50);
+    list-style-type: none;
+    color: aliceblue;
+    font-weight: 500;
+
+}
+.footer img{
+    background-color: rgb(50, 50, 50);
+    list-style-type: none;
+    color: aliceblue;
+    font-weight: 500;
+
+}
+.footer p{
+    background-color: rgb(50, 50, 50);
+    padding-bottom: 30px;
+    color: aliceblue;
+    font-size: 12px;
+    font-weight: 500;
+}
+.menu-box{
+    margin-top: 150px;
+    width: 85%;
+}
+.menu-box h1{
+    font-size: 30px;
+    padding: 30px;
+}
+
+.veg-p{
+    display: inline-block;
+    font-size: 5px;
+}
+.menu-cards .btn{
+    background-color: #e4002b;
+    padding: 11px 40px;
+    border-radius: 30px;
+    color: #fff;
+   
+}
+
+.btn-img{
+    background-color: transparent;
+}
+
+
+
+
+
+@media only screen and (max-width: 767px) {
+    .kfc-img{
+        margin-left: auto;
+        margin-right: auto;
+        margin: auto;
+    }
+    
+    .home-banner img{
+        min-height: 300px;
+    }
+    .browse-cat{
+        margin: auto;
+    }
+    .browse-cat h1{
+        font-size: 18px;
+        font-weight: 700;
+    }
+    .line{
+        width: 50%;
+        margin-right: auto;
+    }
+    .carousel-item {
+        margin: auto;
+        /* flex-wrap: wrap; */
+        
+    }
+   
+    #offers h1{
+        margin: auto;
+        font-size: 18px;
+        text-align: center;
+    }
+    .home-top{
+        margin: auto;
+   
+    }
+    .btn-location{
+        font-size: 10px;
+    }
+  }
+
+ 
