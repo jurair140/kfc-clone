@@ -287,6 +287,12 @@ footer{
     .btn-location{
         font-size: 10px;
     }
+     .carousel-item{
+        flex-wrap: wrap;
+    }
+    .carousel-item .card{
+        margin-top: 10px;
+    }
   }
 
  
