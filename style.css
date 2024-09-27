@@ -271,7 +271,7 @@ footer{
     }
     .carousel-item {
         margin: auto;
-        /* flex-wrap: wrap; */
+        flex-wrap: wrap; 
         
     }
    
@@ -287,9 +287,7 @@ footer{
     .btn-location{
         font-size: 10px;
     }
-     .carousel-item{
-        flex-wrap: wrap;
-    }
+  
     .carousel-item .card{
         margin-top: 10px;
     }
