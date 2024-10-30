@@ -1,3 +1,1 @@
-its just a frondent for practicing the bootstrap and css 
-
-pppp
+its just a frondent for practicing the bootstrap and css
